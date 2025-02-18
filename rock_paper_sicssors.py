@@ -1,4 +1,12 @@
-# Implementation of rock, paper, scissors by Nikhitha
+""" 
+Implementation of rock, paper, scissors by Nikhitha
+
+Winning Rules as follows:
+Rock vs paper-> paper wins
+Rock vs scissor-> Rock wins
+paper vs scissor-> scissor wins 
+
+"""
 
 import random
 
